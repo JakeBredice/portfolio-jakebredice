@@ -7,16 +7,16 @@ This repository is a collection of my selected projects demonstrating my skills 
 
 ## Skills Highlighted Across Projects
 
-**Programming & Python**
+**Programming & Python**:
   Object-oriented programming, loops, conditionals, user input validation, randomization, multi-player logic, string and list   manipulation, modular code design.
 
-**Data Analytics & Visualization**
+**Data Analytics & Visualization**:
   Data cleaning, transformation, interactive dashboards, scalable solutions, UX considerations.
 
-**Software Design Practices**
+**Software Design Practices**:
 Modular design, documentation, error handling, state management, and dynamic program flow.
 
-**Tools & Technologies**
+**Tools & Technologies**:
 Python 3, Power BI Desktop, Excel for data preprocessing.
 
 
