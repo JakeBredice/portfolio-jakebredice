@@ -22,7 +22,6 @@ python main.py
 
 ## Example Gameplay
 ```
-C:\Users\Jakeb\Portfolio\Python\RPG-Game>python main.py
 
 Welcome to the Adkins house! This time you won't be able to leave so easily. Goodluck.
 Study: Do you love being disturbed while working? Exits: Kitchen, Library, Bedroom
@@ -84,3 +83,4 @@ Bedroom: Lavished bed with a hidden trapdoor. Exits: Study, Trophy Room
 unlock
 You unlock the trapdoor under the bed. You crawl through it and into the real world.
 Paradiso awaits. Congratulations.
+```

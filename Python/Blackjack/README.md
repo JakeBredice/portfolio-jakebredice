@@ -25,7 +25,7 @@ Text-based multiplayer Blackjack game played in the console. Players are dealt c
 python main.py
 
 ## Example Gameplay
-'''text
+```text
 Give me a seed: 67
 How many players would you like to play with? 3
 Player 1's cards: ['5H', '9H']
@@ -51,4 +51,4 @@ Player 3's cards: ['7C', '4C', '8C', 'KC']
 Player 3 you have busted. Enter any key to acknowledge this. d
 Player 3 has busted.
 Player 1 got the highest score of 21.
-'''
+```

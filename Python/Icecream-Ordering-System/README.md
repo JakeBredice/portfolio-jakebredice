@@ -24,7 +24,7 @@ Text-based program to create custom ice cream orders, calculate prices, and disp
 python main.py
 
 ## Example Gameplay
-'''text
+```text
 Welcome to Adkins' Scoop City!
 What is your name?
 Jake
@@ -72,4 +72,4 @@ Toppings: sprinkles sprinkles oreos
 Total: $7.04
 
 Final Total: $7.04
-'''
+```
