@@ -71,7 +71,14 @@ def main():
         for item in inventory.items:
             if item.action not in exactions:
                 exactions.append(item.action)
+        # Update possible extra actions from inventory
+        exactions = [item.action for item in inventory.items if item.action != 'unlock']
+
+        # List all valid actions
+        valid_actions = ["exit", "look around", "pick up", "inventory"] + exactions
         print('Please choose an action:')
+        print('Options:', ', '.join(valid_actions))
+
         action = input().strip().lower()
         actions += 1
         #Exit handler
