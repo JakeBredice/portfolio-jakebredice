@@ -25,6 +25,7 @@ python main.py
 
 ## Example Gameplay
 
+```text
 Tic-Tac-Toe
 Player X, enter your move (row,col): 1,1
 Player O, enter your move (row,col): 0,2
@@ -52,3 +53,4 @@ X | X | O
 O |   | O
 Player X, enter your move (row,col): 1,0
 Player X wins!
+'''
