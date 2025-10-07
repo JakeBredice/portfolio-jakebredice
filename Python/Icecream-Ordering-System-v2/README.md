@@ -41,20 +41,25 @@ Version 2 also expands the original ordering system with new functionality:
 
 ## Example Views
 **KPI Overview:**  
+
 Displays important KPIs to give quick overall insights
 ![KPI Overview](Screenshots/KPI-ss-ICDB.PNG)
 
 **Revenue Analysis:**  
+
 Displays revenue trends
 ![Revenue Analysis](Screenshots/RA-ss-ICDB.PNG)
 
 **Flavor/Topping Heatmap:**
+
 A heatmap that shows which flavor-topping combinations are popular. (Seasonal Flavors adjusted for limited share of orders)
 ![Flavor/Topping Heatmap](Screenshots/FTHM-ss-ICDB.PNG)
 
 **Order Time Heatmap:**  
+
 Shows seasonality and how order volume fluctuates by time and date.  
 ![Order Time Heatmap](Screenshots/OTHM-ss-ICDB.PNG)
+
 ---
 
 ## Process
