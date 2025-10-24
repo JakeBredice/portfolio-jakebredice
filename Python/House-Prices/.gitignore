@@ -1,0 +1,3 @@
+# Ignore Python cache files only in main folder and Models folder
+__pycache__/
+Models/__pycache__/
