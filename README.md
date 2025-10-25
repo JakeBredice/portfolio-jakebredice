@@ -1,6 +1,6 @@
 # Jake Bredice Portfolio
 
-Hi! I'm Jake Bredice, an Economics and Data Analytics enthusiast with experience in Python, data visualization, and analytics projects. This portfolio showcases my programming and analytical skills through a series of projects, from machine learning and interactive dashboards to game development.
+Hi! I'm Jake Bredice, an Economics and Data Analytics enthusiast with experience in Python, machine learning, data visualization, and analytics projects. This portfolio showcases my programming and analytical skills through a series of projects, from machine learning and interactive dashboards to game development.
 
 ---
 
